@@ -64,4 +64,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  Alınan kararlar: Bir sonraki sprint için gerekli eğitimler tamamlanacak. Sayfaların arayüzlerinde düzenlemeler yapılacak. Kodlar tamamlanacak. Proje bitecek.
  Sprint Review Katılımcıları:
 
- Ömer Furkan Çabuk E. Su Kelleoğl
+ Ömer Furkan Çabuk E. Su Kelleoğlu, Bayram Sarı
+ 
+ # Sprint 3
