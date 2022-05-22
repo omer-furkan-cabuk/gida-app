@@ -88,12 +88,27 @@ Bayram Sarı
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Flutter-Team-81/team81/blob/main/bootcamp%20scrum/sprint1/daily_scrum2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
-![Backlog 2]() 
+![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-05-22%2023.28.31.png) 
+![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-05-22%2023.28.47.png) 
 
+- **Ürün Durumu**: Ekran görüntüleri:
+![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-05-22%2022.59.48.png) 
+![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/c46f1373-7de8-4620-b8b9-07666602bf9c.JPG) 
+
+Sprint Review: Bu sprintte firebase kullanılarak kullanıcı authentication işlemleri tamamlandı ve profil-page tamamlandı. Alınan kararlar: Bir sonraki sprintte kültür-sanat listeleri ekleme ve grüntüleme fonksiyonları kodlanacak, profil sayfası detaylandırılacak ve uygulama kullanılabilir hale getirilecek. Sprint Review Katılımcıları:
+
+Ömer Furkan Çabuk E. Su Kelleoğlu
+
+Sprint Retrospective:
+Takımın geri kalanının da sprintlere katkı vermesi adına adımlar atılmıştır ve buna bağlı olarak görev dağılımında düzenlemeler yapılacaktır.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+Ömer Furkan Çabuk dışında sprint'lere katkı verilmediği için görev dağılımında düzenlemelere gidilmiştir. 
+Firebase teknolojisi uygulamalarla pekiştirilmiş ve uygulamaya yansıtılmıştır.
+-Diğer Notlar: Sprint 2 Katılımcıları: Ömer Furkan Çabuk E. Su Kelleoğlu Bayram Sarı
 
 ---
 
