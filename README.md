@@ -18,7 +18,7 @@ Takım 81
 - Sağlıklı yaşam sürdürmek isteyen bireyler.
 - Kilo almak/vermek isteyen bireyler.
 ## Product Backlog URL
-[Miro Backlog Board](https://miro.com/app/board/uXjVO2fPGTU=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO2fPGTU=/?share_link_id=688454885326)
 ---
 # Sprint 1
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
