@@ -59,7 +59,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  ![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-05-22%2022.59.48.png) 
  ![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/c46f1373-7de8-4620-b8b9-07666602bf9c.JPG) 
 
- Sprint Review: Bu sprintte firebase kullanılarak kullanıcı authentication işlemleri tamamlandı ve profil-page tamamlandı. Alınan kararlar: Bir sonraki sprintte kültür-sanat listeleri ekleme ve grüntüleme fonksiyonları kodlanacak, profil sayfası detaylandırılacak ve uygulama kullanılabilir hale getirilecek. Sprint Review Katılımcıları:
+ Sprint Review: Bu sprintte firebase kullanılarak kullanıcı authentication işlemleri tamamlandı ve profil-page tamamlandı. Alınan kararlar: uygulama kullanılabilir hale getirilecek. Sprint Review Katılımcıları:
  Sprint Review:
  Alınan kararlar: Bir sonraki sprint için gerekli eğitimler tamamlanacak. Sayfaların arayüzlerinde düzenlemeler yapılacak. Kodlar tamamlanacak. Proje bitecek.
  Sprint Review Katılımcıları:
