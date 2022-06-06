@@ -77,6 +77,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/bootcamp%20scrum/sprint1/Ekran%20Resmi%202022-05-10%2023.32.55.png) 
 ![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/bootcamp%20scrum/sprint1/Ekran%20Resmi%202022-05-10%2023.33.14.png) 
 - **Ürün Durumu**: Ekran görüntüleri:
+ ![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2511.PNG) 
+ ![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2512.PNG) 
+ ![Backlog 3](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2513.PNG) 
+ ![Backlog 4](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2514.PNG) 
+ ![Backlog 5](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2515.PNG) 
 - **Sprint Review**: 
 Alınan kararlar: Alınan kararlar: Bir sonraki sprint için gerekli eğitimler tamamlanacak ve sayfaların arayüzleri kodlanmaya başlanacak. Login sayfası ve authentication işlemleri tamamlanacak. Authentication işlemleri Firebase kullanılarak tamamlanacak. Sprint Review Katılımcıları:
 Ömer Furkan Çabuk
