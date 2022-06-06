@@ -82,16 +82,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  ![Backlog 3](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2513.PNG) 
  ![Backlog 4](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2514.PNG) 
  ![Backlog 5](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2515.PNG) 
+ ![Backlog 6](https://github.com/Flutter-Team-81/team81/blob/main/WhatsApp%20Image%202022-06-06%20at%2023.40.16.jpeg) 
+ ![Backlog 7](https://github.com/Flutter-Team-81/team81/blob/main/WhatsApp%20Image%202022-06-06%20at%2023.40.17.jpeg) 
+ ![Backlog 8](https://github.com/Flutter-Team-81/team81/blob/main/WhatsApp%20Image%202022-06-06%20at%2023.40.18.jpeg) 
 - **Sprint Review**: 
-Alınan kararlar: Alınan kararlar: Bir sonraki sprint için gerekli eğitimler tamamlanacak ve sayfaların arayüzleri kodlanmaya başlanacak. Login sayfası ve authentication işlemleri tamamlanacak. Authentication işlemleri Firebase kullanılarak tamamlanacak. Sprint Review Katılımcıları:
+Alınan kararlar: Bu sprintte firebase'den veri akışı olacak şekilde olarak Home-Page, Add-Page ve gönderi kısmı etkileşimsiz olan Profil-Page tamamlandı. Uygulama son halini aldı ve gerekli testler uygulandı. Alınan kararlar: Uygulama için 1 adet rehber tanıtım videosu çekilecek. Sprint Review Katılımcıları:
 Ömer Furkan Çabuk
 E. Su Kelleoğlu
+Bayram Sarı
 - **Sprint Retrospective:**
-- Takımın geri kalanının da sprintlere katkı vermesi adına adımlar atılmıştır ve buna bağlı olarak görev dağılımında düzenlemeler yapılacaktır.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+- Son sprint olduğu için uygulama ekip üyeleri tarafından kullanıldı ve test edildi, eksikler tespit edildi. Bir sonraki proje için edinilen tecrübeler ekip üyeleri tarafından birbirleri ile paylaşıldı.
 -**Diğer Notlar**:
-Sprint 1 Katılımcıları:
+Sprint 3 Katılımcıları:
 Ömer Furkan Çabuk
 E. Su Kelleoğlu
 Bayram Sarı
