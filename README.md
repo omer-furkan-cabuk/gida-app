@@ -74,8 +74,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/bootcamp%20scrum/sprint1/Ekran%20Resmi%202022-05-10%2023.32.55.png) 
-![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/bootcamp%20scrum/sprint1/Ekran%20Resmi%202022-05-10%2023.33.14.png) 
+![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-06-06%2023.52.23.png) 
+![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/Ekran%20Resmi%202022-06-06%2023.55.24.png) 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Backlog 1](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2511.PNG) 
  ![Backlog 2](https://github.com/Flutter-Team-81/team81/blob/main/IMG_2512.PNG) 
