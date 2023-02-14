@@ -3,6 +3,8 @@ Takım 81
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 - Ömer Furkan Çabuk: Scrum Master/Developer
+- E. Su Kelleoğlu: Product Owner
+- Bayram Sarı: Team Member/Graphic Designer
 ## Ürün İsmi
 --FitKal--
 ## Ürün Açıklaması
